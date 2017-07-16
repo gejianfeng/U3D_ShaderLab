@@ -1,0 +1,5 @@
+*.sln
+*.userprefs
+UnityShaderLab/Library/metadata
+UnityShaderLab/Library/ShaderCache
+*.log
