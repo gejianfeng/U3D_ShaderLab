@@ -3,3 +3,6 @@
 UnityShaderLab/Library/metadata
 UnityShaderLab/Library/ShaderCache
 *.log
+*.csproj
+ShaderLab/Library/metadata
+ShaderLab/Library/ShaderCache
